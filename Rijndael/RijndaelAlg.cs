@@ -7,7 +7,7 @@ using System.IO;
 
 namespace Rijndael
 {
-    class RijndaelAlg
+    public class RijndaelAlg
     {
 
 
