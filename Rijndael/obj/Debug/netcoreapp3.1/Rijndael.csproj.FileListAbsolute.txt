@@ -1,0 +1,13 @@
+C:\Users\denis\source\repos\Rijndael\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\Rijndael\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\Rijndael\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.AssemblyInfo.cs
+C:\Users\denis\source\repos\Rijndael\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Rijndael\Rijndael\bin\Debug\netcoreapp3.1\Rijndael.exe
+C:\Users\denis\source\repos\Rijndael\Rijndael\bin\Debug\netcoreapp3.1\Rijndael.deps.json
+C:\Users\denis\source\repos\Rijndael\Rijndael\bin\Debug\netcoreapp3.1\Rijndael.runtimeconfig.json
+C:\Users\denis\source\repos\Rijndael\Rijndael\bin\Debug\netcoreapp3.1\Rijndael.runtimeconfig.dev.json
+C:\Users\denis\source\repos\Rijndael\Rijndael\bin\Debug\netcoreapp3.1\Rijndael.dll
+C:\Users\denis\source\repos\Rijndael\Rijndael\bin\Debug\netcoreapp3.1\Rijndael.pdb
+C:\Users\denis\source\repos\Rijndael\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.dll
+C:\Users\denis\source\repos\Rijndael\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.pdb
+C:\Users\denis\source\repos\Rijndael\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.genruntimeconfig.cache
