@@ -9,8 +9,6 @@ namespace Rijndael
 {
     public class RijndaelAlg
     {
-
-
         public static string Encrypt(string yourText, string password, string saltValue,
             string hashAlgorithm, int passwordIteration, string initializationVector, int keySize)
         {
